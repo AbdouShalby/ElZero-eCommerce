@@ -1,0 +1,31 @@
+[ Introduction About The Course ]
+- Create eCommerce
+- Multilingual
+- Responsive
+- jQuery
+- Plain PHP [ No OOP, No MVC ]
+- PDO
+
+-------------------------------------------------------------------
+
+[ What I Need To Learn Before Start This Course ]
+* HTML
+* CSS
+* jQuery -
+* Bootstrap -
+* PHP
+* MySQL
+* PDO
+
+-------------------------------------------------------------------
+
+[ Project Analysis ]
+
+* Pages & Features
+
++ Settings
++ Dashboard
++ Statistics
++ Log
++ Users
++ Comments
